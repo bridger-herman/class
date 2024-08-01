@@ -55,6 +55,14 @@ extra_javascript:
 extra_css:
   - stylesheets/extra.css
 
+extra:
+  social:
+  - icon: bridger-herman
+    link: https://bridger-herman.github.io
+  - icon: envelope
+    name: bridger {at} carleton.edu
+
+copyright: Copyright &copy; 2024 Bridger Herman
 
 extra_titles:
   cs111: "CS 111 - Introduction to Computer Science"

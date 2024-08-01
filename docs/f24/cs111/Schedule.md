@@ -4,7 +4,6 @@ This is a rough schedule of topics for each day and the release and due dates fo
 
 Preparation should be completed **before** the class day that they are listed. Class is structured expecting that you have completed the preparation activities.
 
-
 | Date  | Week # | Focus                    | Notes                              |
 | ----- | ------ | ------------------------ | ---------------------------------- |
 | 9/16  | 1      | Algorithmic Thinking     |                                    |
